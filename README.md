@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamasha Kavindi</h1>
 <h3 align="center">Undergraduate Student at Cardiff Metropolitan University 🎓 Software Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamasha2001&label=Profile%20views&color=0e75b6&style=flat" alt="tamasha2001" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tamasha2001&label=Profile%20views&color=0e75b6&style=flat" alt="tamasha2001" /> </p>
 
 - 🌱 I’m currently learning **Java**
 
