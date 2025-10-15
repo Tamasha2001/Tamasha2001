@@ -29,8 +29,17 @@
 
 - Performed **business analysis**, **quality assurance**, and **database management** for systems such as:
   - Web Application Firewall Setups  
-  - Retail Promotion Programs  
-  - Sales Analytics Dashboards  
+  - Retail Promotion Programs
+     ➤ Managed implementation of a retail promotion program for a selected retail network.
+     ➤ Focused on daily new subscriber acquisitions and performance tracking.
+     ➤ Prepared key project documentation — Project Scope, Test Plan, and Reports.
+     ➤ Generated analytical reports using SQL and Linux backend systems.
+     ➤ Coordinated with the Hutch marketing team and external vendors for seamless execution.
+     ➤ Oversaw testing processes across multiple version releases.
+     ➤ Ensured quality through detailed test case documentation and execution.
+  - Sales Analytics Dashboard & Reporting Tool
+     ➤ Designed dashboards with features like user tracking, itinerary creation, and admin management.  
+     ➤ Conducted multi-stage testing with clear test case documentation.
 - Designed solutions to improve operational efficiency and streamline processes.  
 - Conducted **User Acceptance Testing (UAT)** to ensure product quality and performance.  
 - Generated detailed reports using **SQL** and **Linux**.  
@@ -65,10 +74,6 @@
 
 - **Healthy Life – Food Scheduling & Ordering System (Group Project)**  
   Technologies: *PHP, HTML, CSS, JavaScript, SQL*
-
-- **Sales Analytics Dashboard & Reporting Tool (Hutch Project)**  
-  ➤ Designed dashboards with features like user tracking, itinerary creation, and admin management.  
-  ➤ Conducted multi-stage testing with clear test case documentation.
 
 - **Footwear Company Management System (Windows & Web App)**  
   Technologies: *C#*
