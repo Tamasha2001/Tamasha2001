@@ -65,12 +65,12 @@
 
 **🎓 BSc (Hons) Software Engineering | Cardiff Metropolitan University (ICBT Campus) | 2023 – 2024**
 
-- **Land Price Prediction Web Application**  
-  Technologies: *Python Flask, Spring Boot, React, MySQL*  
-  ➤ Developed a machine learning–based prediction system to estimate land prices.
-
-- **Lab Appointment System using REST Web Services**  
-  Technologies: *Java*
+    - **Land Price Prediction Web Application**  
+      Technologies: *Python Flask, Spring Boot, React, MySQL*  
+      ➤ Developed a machine learning–based prediction system to estimate land prices.
+    
+    - **Lab Appointment System using REST Web Services**  
+      Technologies: *Java*
 
 **🎓 Higher Diploma in Computing & Software Engineering | Cardiff Metropolitan University (ICBT Campus) | 2021 – 2023**
 
