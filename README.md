@@ -30,16 +30,16 @@
 - Performed **business analysis**, **quality assurance**, and **database management** for systems such as:
   - Web Application Firewall Setups  
   - Retail Promotion Programs
-     <p> ➤ Managed implementation of a retail promotion program for a selected retail network. </p>
-     <p> ➤ Focused on daily new subscriber acquisitions and performance tracking.</p>
-     <p> ➤ Prepared key project documentation — Project Scope, Test Plan, and Reports.</p>
-     <p> ➤ Generated analytical reports using SQL and Linux backend systems.</p>
-     <p> ➤ Coordinated with the Hutch marketing team and external vendors for seamless execution.</p>
-     <p> ➤ Oversaw testing processes across multiple version releases.</p>
-     <p> ➤ Ensured quality through detailed test case documentation and execution.</p>
+     <p> <i> ➤ Managed implementation of a retail promotion program for a selected retail network. </i> </p>
+     <p> <i> ➤ Focused on daily new subscriber acquisitions and performance tracking. </i> </p>
+     <p> <i> ➤ Prepared key project documentation — Project Scope, Test Plan, and Reports. </i></p>
+     <p> <i> ➤ Generated analytical reports using SQL and Linux backend systems.</i> </p>
+     <p> <i> ➤ Coordinated with the Hutch marketing team and external vendors for seamless execution.</i> </p>
+     <p> <i> ➤ Oversaw testing processes across multiple version releases.</i> </p>
+     <p> <i> ➤ Ensured quality through detailed test case documentation and execution.</i> </p>
   - Sales Analytics Dashboard & Reporting Tool
-     <p> ➤ Designed dashboards with features like user tracking, itinerary creation, and admin management.</p>  
-     <p> ➤ Conducted multi-stage testing with clear test case documentation.</p>
+     <p> <i> ➤ Designed dashboards with features like user tracking, itinerary creation, and admin management.</i> </p>  
+     <p> <i> ➤ Conducted multi-stage testing with clear test case documentation.</i> </p>
 - Designed solutions to improve operational efficiency and streamline processes.  
 - Conducted **User Acceptance Testing (UAT)** to ensure product quality and performance.  
 - Generated detailed reports using **SQL** and **Linux**.  
