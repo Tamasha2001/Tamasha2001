@@ -30,16 +30,16 @@
 - Performed **business analysis**, **quality assurance**, and **database management** for systems such as:
   - Web Application Firewall Setups  
   - Retail Promotion Programs
-     ➤ Managed implementation of a retail promotion program for a selected retail network.
-     ➤ Focused on daily new subscriber acquisitions and performance tracking.
-     ➤ Prepared key project documentation — Project Scope, Test Plan, and Reports.
-     ➤ Generated analytical reports using SQL and Linux backend systems.
-     ➤ Coordinated with the Hutch marketing team and external vendors for seamless execution.
-     ➤ Oversaw testing processes across multiple version releases.
-     ➤ Ensured quality through detailed test case documentation and execution.
+     <p> ➤ Managed implementation of a retail promotion program for a selected retail network. </p>
+     <p> ➤ Focused on daily new subscriber acquisitions and performance tracking.</p>
+     <p> ➤ Prepared key project documentation — Project Scope, Test Plan, and Reports.</p>
+     <p> ➤ Generated analytical reports using SQL and Linux backend systems.</p>
+     <p> ➤ Coordinated with the Hutch marketing team and external vendors for seamless execution.</p>
+     <p> ➤ Oversaw testing processes across multiple version releases.</p>
+     <p> ➤ Ensured quality through detailed test case documentation and execution.</p>
   - Sales Analytics Dashboard & Reporting Tool
-     ➤ Designed dashboards with features like user tracking, itinerary creation, and admin management.  
-     ➤ Conducted multi-stage testing with clear test case documentation.
+     <p> ➤ Designed dashboards with features like user tracking, itinerary creation, and admin management.</p>  
+     <p> ➤ Conducted multi-stage testing with clear test case documentation.</p>
 - Designed solutions to improve operational efficiency and streamline processes.  
 - Conducted **User Acceptance Testing (UAT)** to ensure product quality and performance.  
 - Generated detailed reports using **SQL** and **Linux**.  
